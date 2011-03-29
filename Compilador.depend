@@ -1,0 +1,82 @@
+# depslib dependency file v1.0
+1301263000 source:/media/Arquivos/Trabalhos/Teoria de Compiladores/Compilador/main.cpp
+	<iostream>
+	<malloc.h>
+	<string.h>
+	"tabSimb.cpp"
+	<iostream>
+	<malloc.h>
+	<string.h>
+	"tabSimb.cpp"
+
+1301353521 pp"
+
+1301263510 source:/media/Arquivos/Trabalhos/Teoria de Compiladores/Compilador/tabSimb.cpp
+	<iostream>
+	<malloc.h>
+	<string.h>
+	<iostream>
+	<stdlib.h>
+	<malloc.h>
+	<string.h>
+
+1301353473 
+
+1301238397 
+
+1301264234 /media/Arquivos/Trabalhos/Teoria de Compiladores/Compilador/tabSimb.cpp
+	<iostream>
+	<malloc.h>
+	<string.h>
+	<iostream>
+	<stdlib.h>
+	<malloc.h>
+	<string.h>
+
+1301175916 source:h:\ufjf\compiladores\compilador\main.cpp
+	<iostream>
+	<malloc.h>
+	<string.h>
+	"tabSimb.cpp"
+
+1301236658 h:\ufjf\compiladores\compilador\tabsimb.cpp
+	<iostream>
+	<malloc.h>
+	<string.h>
+
+1301353521 source:c:\users\luiz\desktop\compilador\main.cpp
+	<iostream>
+	<malloc.h>
+	<string.h>
+	"tabSimb.cpp"
+
+1301353473 c:\users\luiz\desktop\compilador\tabsimb.cpp
+	<iostream>
+	<stdlib.h>
+	<malloc.h>
+	<string.h>
+
+1301353473 source:c:\users\luiz\desktop\compilador\tabsimb.cpp
+	<iostream>
+	<stdlib.h>
+	<malloc.h>
+	<string.h>
+
+1301353521 source:/media/Arquivos/Trabalhos/Teoria de Compiladores/Compilador/main.cpp
+	<iostream>
+	<malloc.h>
+	<string.h>
+	"tabSimb.cpp"
+
+1301353473 /media/Arquivos/Trabalhos/Teoria de Compiladores/Compilador/tabSimb.cpp
+	<iostream>
+	<stdlib.h>
+	<malloc.h>
+	<string.h>
+
+1301353473 source:/media/Arquivos/Trabalhos/Teoria de Compiladores/Compilador/tabSimb.cpp
+	<iostream>
+	<stdlib.h>
+	<malloc.h>
+	<string.h>
+
